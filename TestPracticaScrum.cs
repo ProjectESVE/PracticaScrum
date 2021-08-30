@@ -115,6 +115,9 @@ namespace Franklin_Montenegro
                 //Grabar Print de grabar
                 screenshot.SaveAsFile(@"C:\Users\Administrador\Desktop\Curso_Scrum\02_Print_TestPractica\GrabarOK_" +  DateTime.Now.Ticks.ToString() +".png");
 
+
+                //Franklin Montenegro 30/08/2021
+
             }
             catch (Exception ex)
             {
